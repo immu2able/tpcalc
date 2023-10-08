@@ -47,4 +47,7 @@ Using this order above, the relative difference of the Nakshatrams are found and
 | 9        | Athimithra Thara    | Good            |
 | -1       | Error               | Internal        |
 
-If today's Nakshatram is
+For eg. If today's Nakshatram is "Revati" and the user's Nakshatram is "Shravanam", then application will determine the difference between the Nakshatram which is 6 and mod it by 9 and results in 6. From the Tharapalan table above, we can see that the palan is Sadaka Thara, which implies that it is a good day for the user.
+
+## Why we have mod by 9 and what is its significance
+<TDB>
